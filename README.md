@@ -3,4 +3,4 @@ Budgeting app built using Node.js, Express.js, PostgreSQL, Session-cookies, Reac
 
 It is deployed on an AWS EC2 instance, connects to an AWS RDS instance, and is served using Nginx. 
 
-The url for the app is http://ec2-18-188-139-97.us-east-2.compute.amazonaws.com/ .
+The url for the app is http://ec2-18-224-30-198.us-east-2.compute.amazonaws.com .
